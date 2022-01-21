@@ -1,0 +1,6 @@
+/Users/lh/Documents/GitHub/PPweek2.4/assignment2/bin/Debug/assignment2.exe
+/Users/lh/Documents/GitHub/PPweek2.4/assignment2/bin/Debug/assignment2.pdb
+/Users/lh/Documents/GitHub/PPweek2.4/assignment2/obj/anycpu/Debug/assignment2.csproj.AssemblyReference.cache
+/Users/lh/Documents/GitHub/PPweek2.4/assignment2/obj/anycpu/Debug/assignment2.csproj.CoreCompileInputs.cache
+/Users/lh/Documents/GitHub/PPweek2.4/assignment2/obj/anycpu/Debug/assignment2.exe
+/Users/lh/Documents/GitHub/PPweek2.4/assignment2/obj/anycpu/Debug/assignment2.pdb
